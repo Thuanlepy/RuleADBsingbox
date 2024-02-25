@@ -14760,10 +14760,6 @@
         "books-analytics-events.apple.com",
         "weather-analytics-events.apple.com",
         "notes-analytics-events.apple.com"
-      ],
-      "domain_regex": [
-        "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$",
-        "^adservice\\.google\\.([a-z]{2}|com?)(\\.[a-z]{2})?$"
       ]
     }
   ]
